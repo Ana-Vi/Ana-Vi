@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ana-Vi
-- 👀 I’m interested in php, java, javascript
+- 👀 I’m interested in php, java, javascript, python
 - 🌱 I’m currently learning lua, gamefication, typescript
-- 💞️ I’m looking to collaborate on games, microsystems
+- 💞️ I’m looking to collaborate on games, microsystems, Java class monitor
 - 📫 How to reach me ana.vitoria.barbosa.mariano@gmail.com
 
 <!---
